@@ -36,6 +36,6 @@ Learn.co is our  learning management system which will hold all the student note
 
 If you haven’t already click “Join Learn” to create an account which will bring you to a page to sign up. Use your github username and password to sign up for your learn.co account. The next page should prompt you to authorize learn.co to access your github account.
 Once you are logged into learn.co you should see your dashboard. On the left is your menu panel which displays the lessons and labs for each module. The center column will display all of the notes content related to each module.
-<img src= "images/learn2.png" alt="learn2">
+<img src= "images/learn2.png" alt="learn2" height="500">
 #Conclusion
 #Personal Webpage Lab
