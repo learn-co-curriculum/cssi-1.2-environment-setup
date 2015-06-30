@@ -5,16 +5,10 @@ languages: html
 ---
 #Intro to the Web
 
-
-Conclusion / So What?
-Both computers and websites have their own unique IP addresses, which allow open communication for requesting and receiving information on the internet.
-
-
 #Objectives:
 +	Explain how loading a web page in your browser works
 + Set up our learn.co and github accounts
 + Understand how to use learn.co for lesson notes and labs
-
 
 #Why Should You Care?
 How many times a day do you use the internet? How many times do you load a different web page? I bet you can't even begin to guess how many times in a year! In order to be a developer, and especially a web developer, it's incredibly important to understand how the web works.
@@ -37,5 +31,6 @@ Learn.co is our  learning management system which will hold all the student note
 If you haven’t already click “Join Learn” to create an account which will bring you to a page to sign up. Use your github username and password to sign up for your learn.co account. The next page should prompt you to authorize learn.co to access your github account.
 Once you are logged into learn.co you should see your dashboard. On the left is your menu panel which displays the lessons and labs for each module. The center column will display all of the notes content related to each module.
 <img src= "images/learn2.png" alt="learn2" height="500">
+
 #Conclusion
-#Personal Webpage Lab
+Now that we know a little bit more about how the web works and we are setup with github and learn.co accounts lets jump into HTML!
