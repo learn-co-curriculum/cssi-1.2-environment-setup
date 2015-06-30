@@ -32,7 +32,7 @@ Finally on your dashboard click the “send verification email” button and go 
 #Learn.co Account
 Learn.co is our  learning management system which will hold all the student notes to each lesson. Each of you should have received an email that invited you to join learn.co
 
-<img src= "images/learn1.png" alt="learn1" height="400" width="400">
+<img src= "images/learn1.png" alt="learn1">
 
 #Conclusion
 #Personal Webpage Lab
