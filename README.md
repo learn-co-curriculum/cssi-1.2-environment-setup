@@ -5,12 +5,15 @@ languages: html
 ---
 #Intro to the Web
 
-#Objectives:
+#Prior Knowledge
++ Intro to CSSI
+
+#Student Objectives:
 +	Explain how loading a web page in your browser works
 + Set up our learn.co and github accounts
 + Understand how to use learn.co for lesson notes and labs
 
-#Why Should You Care?
+#Motivation
 How many times a day do you use the internet? How many times do you load a different web page? I bet you can't even begin to guess how many times in a year! In order to be a developer, and especially a web developer, it's incredibly important to understand how the web works.
 
 #Intro to the Web
