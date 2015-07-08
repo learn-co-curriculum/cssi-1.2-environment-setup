@@ -7,7 +7,6 @@ tags:
   - expressions
   - if
   - else
-resources: 0
 type:
   - mini-lab
   - todo
