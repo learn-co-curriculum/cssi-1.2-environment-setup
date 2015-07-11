@@ -9,19 +9,8 @@ languages: html
 + Intro to CSSI
 
 #Student Objectives:
-+	Explain how loading a web page in your browser works
 + Set up our learn.co and github accounts
 + Understand how to use learn.co for lesson notes and labs
-
-#Motivation
-How many times a day do you use the internet? How many times do you load a different web page? I bet you can't even begin to guess how many times in a year! In order to be a developer, and especially a web developer, it's incredibly important to understand how the web works.
-
-#Intro to the Web
-A web page is a text file written in a language that your browser (a program like Chrome or Firefox) knows how to read and turn into the page you see.  Often, it tells your browser to find other files, like pictures, that belong on the page. Sometimes it also tells the browser to find files with more code, which the browser uses to change the page. Before we talk about how we can write files that the browser can read, lets talk about where the browser gets web pages from, and how.
-
-In talking about the internet, we use a metaphor of clients and servers - it helps us form a mental image of what is happening. Your browser is called the client, and the client makes requests of the server, to which the server responds. A server is just another computer, which your computer communicates with. Most of the requests that your browser makes are "GET" requests - your browser wants to get a page. A GET request is a request to load information. Once the server receives our request, they send back a response, which has the files needed for the page.
-
-As you can tell, we are talking about how this happens in abstract, high-level terms. You can spend years studying the fine detail of how the internet works. After making sure we have everything set up right, we'll get started with some core internet technologies - HTML and CSS.
 
 #Github Account
 You should have received an email with instructions to setup a github account. If you haven’t done that already we will walk through it now.
