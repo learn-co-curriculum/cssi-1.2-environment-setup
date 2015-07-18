@@ -1,7 +1,7 @@
 ---
 tags: cssi, intro to the web, environment, github, learn.co
 level: 1
-languages: html
+languages: html,css
 ---
 #Environment Setup
 
