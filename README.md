@@ -26,3 +26,5 @@ Once you are logged into learn.co you should see your dashboard. On the left is 
 
 #Conclusion
 Now that we know a little bit more about how the web works and we are setup with github and learn.co accounts lets jump into HTML!
+
+<a href='https://learn.co/lessons/cssi-1.2-environment-setup' data-visibility='hidden'>View this lesson on Learn.co</a>
